@@ -1,1 +1,4 @@
 # Instagram-Reach-Analysis
+Instagram is one of the most popular social media applications today. People using Instagram professionally are using it for promoting their business, building a portfolio, blogging, and creating various kinds of content. 
+Instagram Reach Analysis project focuses on measuring the reach of your Instagram posts, shedding light on how many unique users have seen your content. By leveraging Instagram's API, this project enables you to gather data on post reach, engagement metrics, and other relevant information.
+That helps in understanding how Instagram’s algorithm is working. If you want to analyze the reach of your Instagram account, you have to collect your data manually as there are some APIs, but they don’t work well. So it’s better to collect your Instagram data manually.
